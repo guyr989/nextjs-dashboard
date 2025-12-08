@@ -1,4 +1,4 @@
-import { lusitana } from "@/ui/fonts";
+import { lusitana } from "@/app/ui/fonts";
 import Styles from "@/ui/home.module.css";
 import { ArrowRightIcon } from "@heroicons/react/24/outline";
 import Image from "next/image";
