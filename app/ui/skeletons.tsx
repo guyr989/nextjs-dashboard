@@ -21,6 +21,9 @@ export function CardsSkeleton() {
   return (
     <>
       <CardSkeleton />
+      <CardSkeleton />
+      <CardSkeleton />
+      <CardSkeleton />
     </>
   );
 }
